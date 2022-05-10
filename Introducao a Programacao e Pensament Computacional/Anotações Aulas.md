@@ -72,22 +72,20 @@ Input → Operator (operação) → output.
 
 **Inferência:**
 
-	- **Sintética**	
+**Sintética**	
 
-​		Abdução	
+- Abdução	
 
-​		Indução
+Indução
 
- - **Analítica**	
+**Analítica**	
 
-​		Dedução
-​	
+- Dedução
+  ​	
 
 **Ex. Raciocínio Lógico** Um pai, mãe e seu casal de filhos estão sentados em uma mesa. Os homens se chamam Roberto e Sérgio, as mulheres Teresa e Fernanda. Sabe-se que o pai está à frente de Fernanda e o filho e esquerda; e que a Mãe está do lado direito de Sérgio. 
 
 
-
----
 
 **2) Aperfeiçoamento** **→**  A partir de uma solução, determinar pontos de melhora e refinamento.
 
@@ -122,7 +120,13 @@ Portanto, problemas mais fácies e gerenciáveis”
 ​	**Síntese**		Combinar os elementos recompondo o problema original;
 ​	
 
-​	**Ordem de execução de tarefas menores:****Sequêncial** (fila)**Paralelo**
+**Ordem de execução de tarefas menores:**
+
+- Sequêncial (fila)
+
+- Paralelo
+
+
 
 
 
@@ -405,7 +409,7 @@ Forma de resolução de problemas com diretrizes e limitações específicas de 
 
 ![img](https://ibb.co/7kGwJMD)
 
-​			![img](https://ibb.co/9yBk3gc)
+![img](https://ibb.co/9yBk3gc)
 
 
 
