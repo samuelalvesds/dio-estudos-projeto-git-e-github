@@ -146,7 +146,7 @@ Portanto, problemas mais fácies e gerenciáveis”
 
    **Ex: Movimentos de um avatar**	
 
-   ![img](https://ibb.co/QnYb9P6)
+   ![img](https://i.ibb.co/vmLw13J/movimentos-de-um-avatar.png)
 
    
 
@@ -407,9 +407,9 @@ Forma de resolução de problemas com diretrizes e limitações específicas de 
 
   
 
-![img](https://ibb.co/7kGwJMD)
+![img](https://i.ibb.co/FHBSbZ1/Orienta-o-a-Objetos.png)
 
-![img](https://ibb.co/9yBk3gc)
+![img](https://i.ibb.co/5sCgx4G/Orienta-o-a-Objetos-2.png)
 
 
 
