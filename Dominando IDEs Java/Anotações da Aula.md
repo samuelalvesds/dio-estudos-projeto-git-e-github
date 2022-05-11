@@ -19,7 +19,7 @@ Java é uma linguagem de programação orientada a objetos desenvolvida na déca
 
   
 
-- ![image-20220510171604072](C:\Users\samue\AppData\Roaming\Typora\typora-user-images\image-20220510171604072.png)
+- ![image-20220510171604072](https://i.ibb.co/zX4cGKf/image-20220510171604072.png)
 
 
 
@@ -105,6 +105,10 @@ _ps: Essa foi a IDE que escolhi, mas no curso a Camila também faz o tutorial de
 
 [Site de Atalhos do IntelliJ](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
 
+Crtl + N **=** Ctrl + F (pesquisa)
+
+Ctrl + L **=** Organiza as linhas
+
 
 
 ---
@@ -118,4 +122,14 @@ _ps: Essa foi a IDE que escolhi, mas no curso a Camila também faz o tutorial de
         - Commit (Crtl + K) **>** 
           - Adicionar a mensagem à esquerda **>** 
             - Commit and Push (ainda no lado esquerdo inferior)
+
+
+
+---
+
+### Plugins IntelliJ
+
+- Key Promoter X;
+- Rainbow Brackets;
+- One Dark Theme;
 
